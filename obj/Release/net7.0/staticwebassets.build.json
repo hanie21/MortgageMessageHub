@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2UEO1XAPMpCl6DxUnR7d95EnO41N9Z3PlhbuDoWjRrU=",
+  "Source": "MortgagePricingService",
+  "BasePath": "_content/MortgagePricingService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{C18C7731-D73A-4C43-BE3D-6DF70715ED8B}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Messaging/Handlers/NotificationHandler.cs">
+    <Files>
+      <File FileName="Controllers/PricingController.cs" Line="18" Column="36" />
+      <File FileName="Services/PricingCalculatorService.cs" Line="12" Column="10" />
+      <File FileName="Services/PricingPublisherService.cs" Line="1" Column="1" />
+      <File FileName="Services/PricingSubscriberService.cs" Line="12" Column="1" />
+      <File FileName="Messaging/Publisher/PricingPublisher.cs" Line="14" Column="1" />
+      <File FileName="Messaging/Subscriber/PricingSubscriber.cs" Line="18" Column="27" />
+      <File FileName="Messaging/Handlers/NotificationHandler.cs" Line="15" Column="24" />
+      <File FileName="Messaging/Handlers/AuditHandler.cs" Line="1" Column="1" />
+      <File FileName="Extensions/ServiceBusExtensions.cs" Line="10" Column="1" />
+      <File FileName="BackgroundServices/PricingSubscriberWorker.cs" Line="20" Column="43" />
+      <File FileName="Program.cs" Line="29" Column="1" />
+      <File FileName="Configurations/AzureServiceBusOptions.cs" Line="1" Column="1" />
+      <File FileName="Messaging/Handlers/ReportingHandler.cs" Line="1" Column="1" />
+      <File FileName="Messaging/Subscriber/DeadLetterHandler.cs" Line="25" Column="1" />
+      <File FileName="Controllers/DeadLetterController.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MortgagePricingService" expanded="True">
+            <Node name="MortgagePricingService" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Messaging">
+                <Node name="Handlers" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MortgagePricingService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/haniehqasemi/MortgagePricingService/Messaging/Subscriber/DeadLetterHandler.cs" relfile="Messaging/Subscriber/DeadLetterHandler.cs" line="10" column="1" />
+      <Breakpoint file="/Users/haniehqasemi/MortgagePricingService/Messaging/Subscriber/DeadLetterHandler.cs" relfile="Messaging/Subscriber/DeadLetterHandler.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
